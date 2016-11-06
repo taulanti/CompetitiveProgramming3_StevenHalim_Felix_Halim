@@ -1,2 +1,2 @@
 # Competitive_Programming
-Various problem solved from different judges
+Various problems solved from different judges
