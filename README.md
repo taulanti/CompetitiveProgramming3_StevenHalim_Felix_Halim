@@ -1,2 +1,2 @@
-# CompetitiveProgramming3_StevenHalim_Felix_Halim
-  Some solved problems from the book
+# Competitive_Programming
+Various problem solved from different judges
